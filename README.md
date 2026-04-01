@@ -2,6 +2,8 @@
 A role-based finance backend system built with Node.js, Express, and MongoDB. It supports JWT authentication, financial record management, dashboard analytics, and secure access control.
 Backend system for managing financial records with secure role-based access control. Features JWT authentication, CRUD operations for income/expenses, filtering, user-specific data, and dashboard analytics. Built with clean architecture, validation, and centralized error handling.
 
+**API tested using Postman. Collection can be shared if required.**
+
 ## Key Features
 
 - JWT Authentication (Login/Register)
