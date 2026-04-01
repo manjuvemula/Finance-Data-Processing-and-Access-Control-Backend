@@ -80,3 +80,8 @@ PUT /api/users/:id/role
 - Implement refresh tokens
 - Add unit testing
 - Deploy to cloud
+
+ URL    ---->   http://localhost:5000/
+
+<img width="1909" height="747" alt="image" src="https://github.com/user-attachments/assets/736bff45-13f9-4b45-ac18-68cc938626a4" />
+
